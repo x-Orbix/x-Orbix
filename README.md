@@ -19,7 +19,7 @@ class Orbix:
     name       = "Orbix"
     role       = "Student & Hobby Developer"
     location   = "Czech Republic 🇨🇿"
-    languages  = ["Python", "C#", "HTML (trochu)"]
+    languages  = ["Python", "C#", "HTML"]
     interests  = ["Gaming 🎮", "Electronics & Hardware 🔌", "Breaking stuff to learn 💥"]
     currently  = "Pokračuji v Pythonu & učím se nové věci"
     fun_fact   = "Mám víc nápadů než času je realizovat 😅"
@@ -36,10 +36,8 @@ class Orbix:
 
 ![Python](https://img.shields.io/badge/Python-6b21a8?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-7c3aed?style=for-the-badge&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/C-9333ea?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-a855f7?style=for-the-badge&logo=html5&logoColor=white)
-![Linux](https://img.shields.io/badge/Debian-b975f5?style=for-the-badge&logo=debian&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-c084fc?style=for-the-badge&logo=windows&logoColor=white)
+
 
 </div>
 
@@ -54,22 +52,12 @@ class Orbix:
 
 ---
 
-## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=x-Orbix&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a855f7&icon_color=7c3aed&text_color=d8b4fe" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-Orbix&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=d8b4fe" />
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=x-Orbix&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=a855f7&fire=7c3aed&currStreakLabel=d8b4fe)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## 🎮 Zájmy & Fun
 
@@ -77,8 +65,8 @@ class Orbix:
 
 | 🎮 Gaming | 🔌 Hardware | 🐍 Coding |
 |:---------:|:-----------:|:---------:|
-| Casual i hardcore | Elektronika & tinkering | Python je láska |
-| Vždy hledám co hrát | Rád zapojuju věci | C# na obzoru |
+| Příběhovky & Challenge hry | Elektronika | Python |
+| Vždy hledám co hrát | Rád zapojuju věci | C# |
 
 </div>
 
