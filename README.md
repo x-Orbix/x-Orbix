@@ -17,7 +17,7 @@
 ```python
 class Orbix:
     name       = "Orbix"
-    role       = "Student & Hobby Developer"
+    role       = "Student & Developer"
     location   = "Czech Republic 🇨🇿"
     languages  = ["Python", "C#", "HTML"]
     interests  = ["Gaming 🎮", "Electronics & Hardware 🔌", "Breaking stuff to learn 💥"]
